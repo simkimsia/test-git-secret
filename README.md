@@ -5,4 +5,5 @@ README.md
 
 Default branch is main branch
 
-1. commit and push a git secret file and git secret then remove them in main branch
+1. commit and push  secret file and then remove the files in main branch
+2. after commit and push secret file, then want to remove the files and uninstall git secret from repo
